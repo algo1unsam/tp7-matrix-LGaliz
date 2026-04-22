@@ -6,7 +6,8 @@
 
 Las cosas no andaban bien en la realidad asi que estos amigos se mudaron a la Matrix  y decidieron poner una empresa de mensajería para ganarse la vida.  
 
-El objetivo es desarrollar y probar un programa con la técnica **TDD** (Test Driven Development)que permita saber si un paquete puede ser entregado por un mensajero.  
+El objetivo es desarrollar y probar un programa con la técnica **TDD** ([Test Driven Development](https://es.wikipedia.org/wiki/Desarrollo_guiado_por_pruebas), primero escribís los tests y después el código que los hace pasar)
+La idea es que permita saber si un paquete puede ser entregado por un mensajero.  
 Un paquete puede entregarse cuando:  
 1. El mensajero puede llegar al destino indicado.  
 2. El paquete está pago.
@@ -17,7 +18,7 @@ Un paquete puede entregarse cuando:
 
 **Destinos posibles:**
 
-- **Puente de Valentin Alsina:** deja pasar todo lo que pese hasta una tonelada.
+- **Puente la Noria:** deja pasar todo lo que pese hasta una tonelada.
 - **La Matrix:** deja entrar a quien pueda hacer una llamada.
 
 **Mensajeros posibles:**
